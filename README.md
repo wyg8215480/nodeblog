@@ -7,3 +7,5 @@ It's like facebook, you can add pic and paragraph if you want, and you can sort 
 It also has "comment" function, you can post any thing in the comment if you want!
 
 It can add category, this function in last page.
+
+It has to connect to MongoDB first.
